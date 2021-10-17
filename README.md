@@ -19,4 +19,4 @@ It needs 3 environment variables :
 
 ## Tutorial
 
-A complete tutorial is available at https://blog.bodul.fr
+A complete tutorial (in french) is available at https://blog.bodul.fr/2021/10/17/home-assistant-vers-pubsub-vers-bigquery-vers-datastudio/
